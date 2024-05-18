@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thejshri
 - 👀 I’m interested in creating magic with my keyboard keys
-- 🌱 I’m currently learning to be a experienced coder
+- 🌱 I’m currently learning to be an experienced coder
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/thejashri-venkat/
 - 😄 Pronouns: ...
